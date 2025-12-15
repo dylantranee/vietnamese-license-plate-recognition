@@ -1,0 +1,14 @@
+# Vietnamese License Plate Recognition - Dependencies
+
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0
+easyocr>=1.7.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Optional: For GPU acceleration (CUDA)
+# Uncomment if you have NVIDIA GPU with CUDA support
+# torch==2.0.0+cu118
+# torchvision==0.15.0+cu118
